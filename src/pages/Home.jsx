@@ -11,6 +11,7 @@ import Plane from '../models/Plane'
 </div> */}
 
 const Home = () => {
+  const [currentStage, setCurrentStage] = useState(1)
   const [isRotating, setIsRotation] = useState(false)
 
   const adjustIslandForScreenSize = () => {
