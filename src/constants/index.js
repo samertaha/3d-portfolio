@@ -186,49 +186,49 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "Amazon Price Tracker",
+    name: "Background remover",
     description:
-      "Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.",
-    link: "https://github.com/adrianhajdin/pricewise",
+      "Developed a web application that remove background image or color form any image you upload using AI API called bgremover API.",
+    link: "https://github.com/samertaha/maraton-april",
   },
   {
     iconUrl: threads,
     theme: "btn-back-green",
     name: "Full Stack Threads Clone",
     description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
+      "I developed this app in 1 full day, i encountered some difficulties like variable scopes and sunch things also i solved many bugs and learned a lot while doing it. this app is a COVID 19 statistics app that show you all covid stats in each continent of the world also give you detailed view of specific country you can chose after chosing the continent first.",
+    link: "https://github.com/samertaha/covid19-tracker-app",
   },
   {
     iconUrl: car,
     theme: "btn-back-blue",
-    name: "Car Finding App",
+    name: "Promptia",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+      "Designed and built a social app for sharing usefull propts good for use in AI chat services like chatgpt...",
+    link: "https://github.com/samertaha/promptopia",
   },
   {
     iconUrl: snapgram,
     theme: "btn-back-pink",
-    name: "Full Stack Instagram Clone",
+    name: "Real Time chat app",
     description:
-      "Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.",
+      "a full stack realtime chat app built with NextJS used Upstash Redis as a database, React for the user interface, and code in TypeScript.a super-performant realtime chat app deployed to the web, ready to be used by actual users.",
     link: "https://github.com/adrianhajdin/social_media_app",
   },
   {
     iconUrl: estate,
     theme: "btn-back-black",
-    name: "Real-Estate Application",
+    name: "socketio realtime chat app for practicing realtime messaging",
     description:
-      "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
+      "Developed a web application for real time chat and messaging, i studied very well using socket.io library for implementing web socket features.",
+    link: "https://socket-io-chat-app-ifds.onrender.com/",
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
-    name: "AI Summarizer Application",
+    name: "created virual portfolio mern stack based app",
     description:
-      "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/adrianhajdin/project_ai_summarizer",
+      "App that leverages mern stack features on the backend and frontend.",
+    link: "https://portfolio-zmt5.onrender.com/",
   },
 ];
